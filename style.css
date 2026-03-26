@@ -1,36 +1,109 @@
-/*  
-COMMENTAIRE 
-*/
-.flex-row-space-betwenn {
-    display: flex; 
+/* style.css */
+
+/* classe qu'on avait faite en cours  */
+.flex-row-space-between {
+    display: flex;
     flex-direction: row;
     justify-content: space-between;
 }
 
-.red {
-    color:brown; 
-}
-
 ul {
-    list-style: none; 
-    gap: 1em /* ca ca veut dire 60 pixel de taille pour la list */
+    list-style: none; /* !! a mettre a chercher sur les trucs de police quona vue en cours  */
+    gap: 2em;
 }
 
 li {
-    display: flex; 
+    display: flex;
     flex-direction: row;
     align-items: center; /* centrer sur l'axe secondaire */
 }
+
 h1 {
-    font-family: "space Gotesk";
+    font-family: "Space Grotesk", sans-serif;
 }
 
 h2 {
-    color :chocolate;
+    color: chocolate;
 }
 
-h2:hover{
-    transition: color 3s; 
-    color:cornflowerblue;
+h2:hover {
+    transition: color 3s;
+    color: cornflowerblue;
 }
 
+body {
+    font-family: "Space Grotesk", sans-serif;
+    background-color: #f5f2ee;
+    margin: 0;
+}
+
+/* demander a claude pour la couleurs comme sur le figma */
+.nav {
+    background-color: #8B7345;
+    color: white;
+    padding: 1rem 2rem;
+    align-items: center;
+}
+
+/* H1 doit etre en blanc donc je vais chercher dans mon index le h1 je le met en blanc dans css */
+.nav h1 {
+    color: white;
+}
+
+/* Claude m'a montré CSS grid pour faire une grille qui s'adapte automatiquement */
+.grille {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5rem;
+    padding: 2rem;
+}
+
+.card {
+    background: white;
+    border-radius: 10px;
+    padding: 1rem;
+    cursor: pointer;
+    border: none;
+    text-align: left;
+}
+
+.card:hover {
+    /* je voulais faire l'effet d'ombre mais je ne trouvais pas donc claude m'a montré box-shadow pour faire un effet d'ombre au survol */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.15);
+}
+
+.card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+.prix {
+    color: green;
+    font-weight: bold;
+}
+
+/* === le popover ===
+   l'IA m'a expliqué qu'il faut utiliser :popover-open et pas juste [popover]
+   sinon le display:flex s'applique aussi quand le popover est fermé
+   et du coup il s'affiche tout le temps sur la page */
+[popover]:popover-open {
+    width: 80%;
+    border-radius: 12px;
+    border: none;
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    gap: 2rem;
+    align-items: center;
+}
+
+.col {
+    flex: 1;
+}
+
+.col img {
+    width: 100%;
+    border-radius: 10px;
+}
