@@ -26,156 +26,17 @@
         </ul>
     </nav>
 
-    <!-- page liste : toutes les cards -->
+    <!-- la grille est vide : c'est le JavaScript qui va la remplir depuis le JSON -->
     <div id="page-liste">
-
-        <div class="grille">
-
-            <!-- CARD 1 -->
-            <button class="card" popovertarget="card1" popovertargetaction="show">
-                <img src="https://img.freepik.com/photos-gratuite/homme-cool-tatouages-coureur-ultra-trail_346278-117.jpg?semt=ais_hybrid&w=740&q=80" alt="trail">
-                <h2>Trail des Merveilles</h2>
-                <p><i data-lucide="calendar"></i> 26 avril 2026</p>
-                <p><i data-lucide="map-pin"></i> Vallée de la Roya</p>
-                <p class="prix">À partir de 50,00 €</p>
-            </button>
-
-            <!-- CARD 2 -->
-            <button class="card" popovertarget="card2" popovertargetaction="show">
-                <img src="https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=400&h=200&fit=crop" alt="trail">
-                <h2>Trail de la Ste Victoire</h2>
-                <p><i data-lucide="calendar"></i> 15 avril 2026</p>
-                <p><i data-lucide="map-pin"></i> Avignon</p>
-                <p class="prix">À partir de 40,00 €</p>
-            </button>
-
-            <!-- CARD 3 -->
-            <button class="card" popovertarget="card3" popovertargetaction="show">
-                <img src="https://www.linksium.fr/uploads/meta-images/visuel-PredictTrail-v2.jpg" alt="trail">
-                <h2>UTCAM</h2>
-                <p><i data-lucide="calendar"></i> 7 juillet 2026</p>
-                <p><i data-lucide="map-pin"></i> Nice</p>
-                <p class="prix">À partir de 30,00 €</p>
-            </button>
-
-        </div>
-    </div>
-
-   
-    <div id="card1" popover>
-        <div class="col">
-            <button popovertarget="card1" popovertargetaction="hide">retour</button>
-            <h2>Trail des Merveilles</h2>
-            <div>
-                <p>selection distances</p>
-
-                <input type="radio" id="10km" name="trail des merveilles" value="10" checked/>
-                <label for="10km"> 10km</label>
-
-                <input type="radio" id="50km" name="trail des merveilles" value="50" />
-                <label for="50km"> 50km</label>
-
-                <input type="radio" id="13km" name="trail des merveilles" value="13" />
-                <label for="13km"> 13km</label>
-            </div>
-        </div>
-
-        <div class="col">
-            <img src="https://img.freepik.com/photos-gratuite/homme-cool-tatouages-coureur-ultra-trail_346278-117.jpg?semt=ais_hybrid&w=740&q=80" alt="trail">
-        </div>
-
-        <div class="col">
-            <button>Valider la commande</button>
-        </div>
-    </div>
-
-    <div id="card2" popover>
-        <div class="col">
-            <button popovertarget="card2" popovertargetaction="hide">retour</button>
-            <h2>Trail de la Ste Victoire</h2>
-            <div>
-                <p>selection distances</p>
-
-                <input type="radio" id="5km" name="ste victoire" value="5" checked/>
-                <label for="5km"> 5km</label>
-
-                <input type="radio" id="10km-sv" name="ste victoire" value="10" />
-                <label for="10km-sv"> 10km</label>
-
-                <input type="radio" id="34km" name="ste victoire" value="34" />
-                <label for="34km"> 34km</label>
-
-                <input type="radio" id="80km" name="ste victoire" value="80" />
-                <label for="80km"> 80km</label>
-            </div>
-        </div>
-
-        <div class="col">
-            <img src="https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=600&h=300&fit=crop" alt="trail">
-        </div>
-
-        <div class="col">
-            <button>Valider la commande</button>
-        </div>
-    </div>
-
-    <div id="card3" popover>
-        <div class="col">
-            <button popovertarget="card3" popovertargetaction="hide">retour</button>
-            <h2>UTCAM</h2>
-            <div>
-                <p>selection distances</p>
-
-                <input type="radio" id="30km" name="utcam" value="30" checked/>
-                <label for="30km"> 30km</label>
-
-                <input type="radio" id="53km" name="utcam" value="53" />
-                <label for="53km"> 53km</label>
-
-                <input type="radio" id="84km" name="utcam" value="84" />
-                <label for="84km"> 84km</label>
-
-                <input type="radio" id="160km" name="utcam" value="160" />
-                <label for="160km"> 160km</label>
-            </div>
-        </div>
-
-        <div class="col">
-            <img src="https://www.linksium.fr/uploads/meta-images/visuel-PredictTrail-v2.jpg" alt="trail">
-        </div>
-
-        <div class="col">
-            <button>Valider la commande</button>
+        <div class="grille" id="grille">
         </div>
     </div>
 
     <!-- icones lucide : https://lucide.dev/guide/packages/lucide#usage -->
     <script src="https://unpkg.com/lucide@latest"></script>
-    <script>
-        lucide.createIcons();
 
-        /* données de chaque trail
-           l'IA m'a expliqué c'est quoi un objet JS, c'est comme un tableau
-           mais avec des noms à la place des numéros */
-        var trails = {
-            'merveilles': {
-                titre: 'Trail des Merveilles',
-                image: 'https://images.unsplash.com/photo-1551632811-561732d1e306?w=600&h=300&fit=crop',
-                distances: ['50 km', '24 km', '13 km', '10 km']
-            },
-            'ste-victoire': {
-                titre: 'Trail de la Ste Victoire',
-                image: 'https://images.unsplash.com/photo-1571008887538-b36bb32f4571?w=600&h=300&fit=crop',
-                distances: ['80 km', '34 km', '10 km', '5 km']
-            },
-            'utcam': {
-                titre: 'UTCAM',
-                image: 'https://www.linksium.fr/uploads/meta-images/visuel-PredictTrail-v2.jpg',
-                distances: ['160 km', '84 km', '53 km', '30 km']
-            }
-        };
-
-    </script>
+    <!-- on relie notre fichier javascript -->
+    <script src="script.js"></script>
 
 </body>
 </html>

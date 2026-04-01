@@ -1,0 +1,2002 @@
+[
+  {
+    "event_name": "Trail de Lille #1",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "01 avril 2026",
+    "location": "45.000,3.000,13",
+    "city": "Lille",
+    "department": "59",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Lyon #2",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "02 avril 2026",
+    "location": "45.100,3.050,13",
+    "city": "Lyon",
+    "department": "69",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Marseille #3",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "03 avril 2026",
+    "location": "45.200,3.100,13",
+    "city": "Marseille",
+    "department": "13",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Nice #4",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "04 avril 2026",
+    "location": "45.300,3.150,13",
+    "city": "Nice",
+    "department": "06",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Grenoble #5",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "05 avril 2026",
+    "location": "45.400,3.200,13",
+    "city": "Grenoble",
+    "department": "38",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Annecy #6",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "06 avril 2026",
+    "location": "45.500,3.250,13",
+    "city": "Annecy",
+    "department": "74",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Clermont-Ferrand #7",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "07 avril 2026",
+    "location": "45.600,3.300,13",
+    "city": "Clermont-Ferrand",
+    "department": "63",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Toulouse #8",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "08 avril 2026",
+    "location": "45.700,3.350,13",
+    "city": "Toulouse",
+    "department": "31",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Bordeaux #9",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "09 avril 2026",
+    "location": "45.800,3.400,13",
+    "city": "Bordeaux",
+    "department": "33",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Nantes #10",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "10 avril 2026",
+    "location": "45.900,3.450,13",
+    "city": "Nantes",
+    "department": "44",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Lille #11",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "11 avril 2026",
+    "location": "46.000,3.500,13",
+    "city": "Lille",
+    "department": "59",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Lyon #12",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "12 avril 2026",
+    "location": "46.100,3.550,13",
+    "city": "Lyon",
+    "department": "69",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Marseille #13",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "13 avril 2026",
+    "location": "46.200,3.600,13",
+    "city": "Marseille",
+    "department": "13",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Nice #14",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "14 avril 2026",
+    "location": "46.300,3.650,13",
+    "city": "Nice",
+    "department": "06",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Grenoble #15",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "15 avril 2026",
+    "location": "46.400,3.700,13",
+    "city": "Grenoble",
+    "department": "38",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Annecy #16",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "16 avril 2026",
+    "location": "46.500,3.750,13",
+    "city": "Annecy",
+    "department": "74",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Clermont-Ferrand #17",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "17 avril 2026",
+    "location": "46.600,3.800,13",
+    "city": "Clermont-Ferrand",
+    "department": "63",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Toulouse #18",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "18 avril 2026",
+    "location": "46.700,3.850,13",
+    "city": "Toulouse",
+    "department": "31",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Bordeaux #19",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "19 avril 2026",
+    "location": "46.800,3.900,13",
+    "city": "Bordeaux",
+    "department": "33",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Nantes #20",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "20 avril 2026",
+    "location": "46.900,3.950,13",
+    "city": "Nantes",
+    "department": "44",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Lille #21",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "21 avril 2026",
+    "location": "47.000,4.000,13",
+    "city": "Lille",
+    "department": "59",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Lyon #22",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "22 avril 2026",
+    "location": "47.100,4.050,13",
+    "city": "Lyon",
+    "department": "69",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Marseille #23",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "23 avril 2026",
+    "location": "47.200,4.100,13",
+    "city": "Marseille",
+    "department": "13",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Nice #24",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "24 avril 2026",
+    "location": "47.300,4.150,13",
+    "city": "Nice",
+    "department": "06",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Grenoble #25",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "25 avril 2026",
+    "location": "47.400,4.200,13",
+    "city": "Grenoble",
+    "department": "38",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Annecy #26",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "26 avril 2026",
+    "location": "47.500,4.250,13",
+    "city": "Annecy",
+    "department": "74",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Clermont-Ferrand #27",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "27 avril 2026",
+    "location": "47.600,4.300,13",
+    "city": "Clermont-Ferrand",
+    "department": "63",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Toulouse #28",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "28 avril 2026",
+    "location": "47.700,4.350,13",
+    "city": "Toulouse",
+    "department": "31",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Bordeaux #29",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "29 avril 2026",
+    "location": "47.800,4.400,13",
+    "city": "Bordeaux",
+    "department": "33",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Nantes #30",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "30 avril 2026",
+    "location": "47.900,4.450,13",
+    "city": "Nantes",
+    "department": "44",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Lille #31",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "01 mai 2026",
+    "location": "48.000,4.500,13",
+    "city": "Lille",
+    "department": "59",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Lyon #32",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "02 mai 2026",
+    "location": "48.100,4.550,13",
+    "city": "Lyon",
+    "department": "69",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Marseille #33",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "03 mai 2026",
+    "location": "48.200,4.600,13",
+    "city": "Marseille",
+    "department": "13",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Nice #34",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "04 mai 2026",
+    "location": "48.300,4.650,13",
+    "city": "Nice",
+    "department": "06",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Grenoble #35",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "05 mai 2026",
+    "location": "48.400,4.700,13",
+    "city": "Grenoble",
+    "department": "38",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Annecy #36",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "06 mai 2026",
+    "location": "48.500,4.750,13",
+    "city": "Annecy",
+    "department": "74",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Clermont-Ferrand #37",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "07 mai 2026",
+    "location": "48.600,4.800,13",
+    "city": "Clermont-Ferrand",
+    "department": "63",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Toulouse #38",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "08 mai 2026",
+    "location": "48.700,4.850,13",
+    "city": "Toulouse",
+    "department": "31",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Bordeaux #39",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "09 mai 2026",
+    "location": "48.800,4.900,13",
+    "city": "Bordeaux",
+    "department": "33",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Nantes #40",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "10 mai 2026",
+    "location": "48.900,4.950,13",
+    "city": "Nantes",
+    "department": "44",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Lille #41",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "11 mai 2026",
+    "location": "49.000,5.000,13",
+    "city": "Lille",
+    "department": "59",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Lyon #42",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "12 mai 2026",
+    "location": "49.100,5.050,13",
+    "city": "Lyon",
+    "department": "69",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Marseille #43",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "13 mai 2026",
+    "location": "49.200,5.100,13",
+    "city": "Marseille",
+    "department": "13",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Nice #44",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "14 mai 2026",
+    "location": "49.300,5.150,13",
+    "city": "Nice",
+    "department": "06",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Grenoble #45",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "15 mai 2026",
+    "location": "49.400,5.200,13",
+    "city": "Grenoble",
+    "department": "38",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Annecy #46",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "16 mai 2026",
+    "location": "49.500,5.250,13",
+    "city": "Annecy",
+    "department": "74",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Clermont-Ferrand #47",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "17 mai 2026",
+    "location": "49.600,5.300,13",
+    "city": "Clermont-Ferrand",
+    "department": "63",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Toulouse #48",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "18 mai 2026",
+    "location": "49.700,5.350,13",
+    "city": "Toulouse",
+    "department": "31",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Bordeaux #49",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "19 mai 2026",
+    "location": "49.800,5.400,13",
+    "city": "Bordeaux",
+    "department": "33",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  },
+  {
+    "event_name": "Trail de Nantes #50",
+    "images": [
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running",
+      "https://loremflickr.com/960/540/running"
+    ],
+    "event_type": "trail",
+    "date": "20 mai 2026",
+    "location": "49.900,5.450,13",
+    "city": "Nantes",
+    "department": "44",
+    "registrations": {
+      "opening": {
+        "date": "15 janvier 2026",
+        "time": "12:00"
+      },
+      "closing": {
+        "date": "10 avril 2026",
+        "time": "23:59"
+      }
+    },
+    "description": "Un trail nature avec différents parcours adaptés à tous les niveaux.",
+    "races": [
+      {
+        "name": "Trail 10 km",
+        "distance": "10",
+        "elevation_gain": "300",
+        "start_time": "09:00",
+        "price": "20"
+      },
+      {
+        "name": "Trail 20 km",
+        "distance": "20",
+        "elevation_gain": "700",
+        "start_time": "08:00",
+        "price": "35"
+      }
+    ]
+  }
+]
